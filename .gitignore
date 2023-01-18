@@ -1,0 +1,4 @@
+.terraform.lock.hcl
+chave.json
+.terraform/providers/registry.terraform.io/hashicorp/google/3.5.0/linux_amd64/terraform-provider-google_v3.5.0_x5
+/.terraform
